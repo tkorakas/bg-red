@@ -1,29 +1,38 @@
-# BG-Red
+# <span style="background-color:red">BG-Red</span>
 
 Have you ever wondered why your site looks so boring? Exactly! It is not RED enough!
 
 Our team of highly trained UX baboons has dedicated years of RnD to accomplish the impossible task
-of deBoring a website. Hence the BG-Red framework was borned.
+of deBoring a website. Hence, the <span style="background-color:red">BG-Red</span> framework was borned.
 
-<!-- background: #ff0000 -->
+### Here is a working demo:
+![Working demo](example.jpg)
 
 ## Getting Started
 
-Add the `bg-red.css` file in your HTML.
+* Learn HTML and CSS
+* Create 10-20 websites
+* Cry in despair because they are so boring
+* Add `bg-red.css` in the root folder of every website you own
+* Reference `bg-red.css`. If you don't know how, go to first step
+* You may also use the [CDN version](https://cdn.rawgit.com/tkorakas/bg-red/master/bg-red.css)
 
-### Installing
+## Roadmap
 
-Download the or clone the repository. Copy the file `bg-red.css` in your project.
+- [ ] Possibly make it more red
+- [ ] Selenium testing that is red enough at all times
 
-```
-<link rel="stylesheet" type="text/css" href="bg-red.css">
-```
+## Contribution
+
+- Find a more red hex color
+- Come to RedCon which happens every year at Red District
+- Go to [issues](https://github.com/tkorakas/bg-red/issues) and start fixing bugs
 
 ## Authors
 
-* **Thanos Korakas**
+* **/Thanos (Korakas|Nokas)/**
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/tkorakas/bg-red/contributors) who participated in this project.
 
 ## License
 
