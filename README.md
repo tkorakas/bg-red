@@ -19,7 +19,7 @@ of deBoring a website. Hence, the <span style="background-color:red">BG-Red</spa
 
 ## Roadmap
 
-- [ ] Possibly make it more red
+- [x] Possibly make it more red
 - [ ] Selenium testing that is red enough at all times
 
 ## Contribution
